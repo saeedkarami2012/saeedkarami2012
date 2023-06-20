@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saeedkarami2012
-- 👀 I’m interested in ML
+- 👋 Hi, I’m Saeed Karami
+- 👀 I’m working in applications of Mathematics in ML problems.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me ...
+- 📫  Please contact through my email: s.karami@iasbs.ac.ir   and saeedkarami2012@gmail.com
 
 <!---
 saeedkarami2012/saeedkarami2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
